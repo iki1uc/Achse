@@ -10,4 +10,4 @@ Alle Sequenzen = 360°
 ACHSE ist kompatibel mit:
 ROOT, TMP, LAGE, laTER, ORT
 
-ACHSE ist D1 der 6D‑Matrix.
+ACHSE ist D1 der 6D-Matrix.
